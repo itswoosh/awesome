@@ -52,7 +52,7 @@ var nav = document.querySelector(".fixed-nav-bar")
 if (nav) {
   var html = `
     <div class="fixed-nav-bar-container">
-      <a class="icon" href="/./"><img alt="nav" id="INImg" src="/assets/media/favicon/original-dafcbcf87e68bc95c0ed0f3ca5f5f6fd.png"/></a>
+      <a class="icon" href="/./"><img alt="nav" id="INImg" src="/assets/media/favicon/sr-logo.png"/></a>
     </div>
     <div class="fixed-nav-bar-right">
       <a class="navbar-link" href="/./gm"><i class="fa-solid fa-gamepad navbar-icon"></i><an>Ga</an><an>mes</an></a>
