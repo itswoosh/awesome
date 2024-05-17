@@ -67,7 +67,7 @@ if (nav) {
 var themeid = localStorage.getItem("theme")
 themeEle = document.createElement("link")
 themeEle.rel = "stylesheet"
-if (themeid == "catppuccinMocha") {
+if (themeid == "SIGMA MODE") {
   themeEle.href = "/assets/styles/themes/catppuccin/mocha.css?v=1"
 }
 if (themeid == "catppuccinMacchiato") {
