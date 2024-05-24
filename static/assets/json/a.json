@@ -410,5 +410,10 @@
     "image": "/assets/media/icons/proton.webp",
     "categories": ["all"],
     "error": "true"
-  }
+  },
+  {
+    "name": "Friday Night Funkin' you stupid niggers",
+    "link": "https://kbhgames.com/game/friday-night-funkin",
+    "image": "/assets/media/icons/fnf.png",
+    "categories": ["all"]
 ]
